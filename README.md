@@ -6,4 +6,4 @@ If anyone wants to join in feell free. To keep it quick I am thinking of screens
 
 Lecture notes so far:
 
-* (1.1: Motivation and Philosophy)[CategoryTheory1.1.md]
+* [1.1: Motivation and Philosophy](CategoryTheory1.1.md)
