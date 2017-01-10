@@ -1,4 +1,4 @@
-#Lecture 1 - Motivation and Philosophy 
+#Lecture 1.1 - Motivation and Philosophy 
 
 [00:00](https://youtu.be/I8LbkfSSR58)
 
