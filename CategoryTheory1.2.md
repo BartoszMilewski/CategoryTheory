@@ -54,8 +54,8 @@ You could think of composition as a multiplication table that for any two arrows
 
 For every object a there is an arrow id : a → a that is the identity. Denoted Id<sub>a</sub>
 
-For all f : a → a, id<sub>b</sub> ∘ f = f (left identity)  
-For all f : b → b, g ∘ id<sub>a</sub> = g (right identity)
+For all f : a → b, id<sub>b</sub> ∘ f = f (left identity)  
+For all g : a → b, g ∘ id<sub>a</sub> = g (right identity)
 
 #Associativity
 
