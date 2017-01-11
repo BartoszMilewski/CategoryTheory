@@ -1,3 +1,7 @@
+#Lecture 1.2 - What is a category?
+
+[00:00](https://youtu.be/p54Hd7AmVFU)
+
 The major tools in our arsenal 
 
 * **Abstraction**  
@@ -25,9 +29,9 @@ There are many possibilities related to how arrows can exist between objects:
 
 ![Diagram 1.2a](diagram1.2a.jpg)
 
-* Looking at any 2 objects A, B we can see that there may be zero, 1, finite, countable or un-countably infinitely many arrows connecting them in the direction A → B.
-* You can (but not necessarily) have arrows going back from B → A.
-* And of course, you can have arrows from A → A.
+* Looking at any 2 objects a, b we can see that there may be zero, 1, finite, countable or un-countably infinitely many arrows connecting them in the direction a → b.
+* You can (but not necessarily) have arrows going back from b → a.
+* And of course, you can have arrows from a → a.
 * In this sense a category is like a graph, but it can have infinitely many objects and infinitely many arrows. Or in the other extreme, no objects at all!
 
 # Composition
@@ -36,9 +40,9 @@ There are many possibilities related to how arrows can exist between objects:
 
 ![Diagram 1.2b](diagram1.2b.jpg)
 
-Given any morphisms f : A → B and g : B → C, you can compose them g ∘ f : A → C and is also a morphism in the category. 
+Given any morphisms f : a → b and g : b → c, you can compose them g ∘ f : a → c and is also a morphism in the category. 
 
-Of course there may (or may not) be other different morphisms x, y, z : A → C, as shown by red arrows above.
+Of course there may (or may not) be other different morphisms x, y, z : a → c, as shown by red arrows above.
 
 You could think of composition as a multiplication table that for any two arrows, you define what is the composition.
 
@@ -48,10 +52,10 @@ You could think of composition as a multiplication table that for any two arrows
 
 ![Diagram 1.2c](diagram1.2c.jpg)
 
-For every object A there is an arrow id : A → A that is the identity. Denoted Id<sub>A</sub>
+For every object A there is an arrow id : a → a that is the identity. Denoted Id<sub>a</sub>
 
-For all f : A → B, id<sub>B</sub> ∘ f = f (left identity)
-For all f : A → B, f ∘ id<sub>A</sub> = f (right identity)
+For all f : a → a, id<sub>b</sub> ∘ f = f (left identity)  
+For all f : b → b, g ∘ id<sub>a</sub> = g (right identity)
 
 #Associativity
 
