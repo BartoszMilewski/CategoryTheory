@@ -52,7 +52,7 @@ You could think of composition as a multiplication table that for any two arrows
 
 ![Diagram 1.2c](diagram1.2c.jpg)
 
-For every object A there is an arrow id : a → a that is the identity. Denoted Id<sub>a</sub>
+For every object a there is an arrow id : a → a that is the identity. Denoted Id<sub>a</sub>
 
 For all f : a → a, id<sub>b</sub> ∘ f = f (left identity)  
 For all f : b → b, g ∘ id<sub>a</sub> = g (right identity)
